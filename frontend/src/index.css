@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+form {
+  margin: 20px 0;
+}
+
+pre {
+  background: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+}
