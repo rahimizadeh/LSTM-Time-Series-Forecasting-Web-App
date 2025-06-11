@@ -1,4 +1,4 @@
-# Time Series Prediction Web App
+# Time Series Forecasting Web App
 
 ![Docker](https://img.shields.io/badge/Docker-2.5GB→300MB-success)
 ![React](https://img.shields.io/badge/React-18-blue)
@@ -143,13 +143,3 @@ This README provides:
 ✅ Troubleshooting guide  
 ✅ Performance benchmarks  
 ✅ CI/CD integration example  
-
-To update the project:
-1. Modify the backend/frontend code
-2. Update the version tags
-3. Rebuild and push images:
-   ```bash
-   docker-compose build
-   docker push rahimizadeh/timeseries-backend:v2
-   docker push rahimizadeh/timeseries-frontend:v2
-   ```
